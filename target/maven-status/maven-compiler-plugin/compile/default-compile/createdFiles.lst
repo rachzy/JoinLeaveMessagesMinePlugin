@@ -1,0 +1,4 @@
+me\rachzy\myfirstplugin\listeners\PlayerJoinListener.class
+me\rachzy\myfirstplugin\listeners\BlockBreakListener.class
+me\rachzy\myfirstplugin\MyFirstPlugin.class
+me\rachzy\myfirstplugin\listeners\PlayerLeaveListener.class
